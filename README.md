@@ -1,1 +1,1 @@
-### 1~    examples of learning the use of scikit-learn 
+### 1~    examples of scikit-learn 
